@@ -1,0 +1,24 @@
+Terms and Conditions for Copying, Distribution, and Modification
+
+Preamble
+This license governs the use, modification, and distribution of the software provided by Userful Corporation. In addition to the standard terms of AGPL-3.0, this customized license requires any user intending to use the software or derivative works for commercial purposes to obtain a separate commercial-use license from Userful Corporation.
+
+Section 0: Additional Definitions
+“Commercial Use” means the sale, offering for sale, lease, loan, distribution, or implementation of the software or its derivative works as part of a product or service that generates revenue, either directly or indirectly, from the software.
+
+Section 1: Commercial Use Clause
+If you use this software, or any modified version of it, for any Commercial Use, you must first obtain a commercial-use license from Userful Corporation. This requirement applies to any individual, organization, or entity intending to derive revenue from the use, distribution, or deployment of this software in any manner.
+
+To inquire about obtaining a commercial-use license, please contact Userful Corporation at:
+Website: userful.com
+Email: support@userful.com
+
+Section 2: Open Source and Contribution Obligations
+This software is provided under the GNU AGPL-3.0 license, and, as such, any modifications, enhancements, or derivative works you create based on this software must be shared under the same AGPL-3.0 license terms. Additionally, these contributions must be made publicly available through the same or similar channels as the original software.
+
+Section 3: Remainder of AGPL-3.0 License Terms
+The remainder of this license agreement follows the terms and conditions of the GNU Affero General Public License, version 3.0 (AGPL-3.0), with the exception of the additional Commercial Use Clause specified above.
+
+---
+
+For the full terms of the AGPL-3.0 license, see https://www.gnu.org/licenses/agpl-3.0.html.
