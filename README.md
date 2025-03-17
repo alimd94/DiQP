@@ -6,9 +6,12 @@
 [![Sponser: Userful](https://img.shields.io/badge/Sponser-Userful_Corporation-black)]([LICENSE](https://userful.com))
 
 
-# Reversing the Damage: A QP-Aware Transformer-Diffusion Approach for 8K Video Restoration under Codec Compression (DiQP, WACV 2025)
+# Reversing the Damage: A QP-Aware Transformer-Diffusion Approach for 8K Video Restoration under Codec Compression (DiQP, Oral WACV 2025)
 
 **Official Pytorch repository for "Reversing the Damage: A QP-Aware Transformer-Diffusion Approach for 8K Video Restoration under Codec Compression"**
+
+**Updates:**
+- May 17, 2024: We publicly released the trained weights [`Check Here`](pretrained).
 
 This repository provides the codebase, pretrained models, and experimental results for our novel approach to restoring ultra-resolution (8K) videos degraded by codec compression.
 
@@ -161,15 +164,14 @@ The [`videoRelated`](videoRelated) directory contains code and data for experime
 If you find this work useful, please consider citing:
 
 ```bibtex
-@misc{dehaghi2024reversingdamageqpawaretransformerdiffusion,
-      title={Reversing the Damage: A QP-Aware Transformer-Diffusion Approach for 8K Video Restoration under Codec Compression}, 
-      author={Ali Mollaahmadi Dehaghi and Reza Razavi and Mohammad Moshirpour},
-      year={2024},
-      eprint={2412.08912},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2412.08912}, 
+@InProceedings{Dehaghi_2025_WACV,
+    author    = {Dehaghi, Ali Mollaahmadi and Razavi, Reza and Moshirpour, Mohammad},
+    title     = {Reversing the Damage: A QP-Aware Transformer-Diffusion Approach for 8K Video Restoration under Codec Compression},
+    booktitle = {Proceedings of the Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {February},
+    year      = {2025},
+    pages     = {1258-1267}
 }
 ```
 ## Contact us
-For any inquiries please reach out to us at ali.mollaahmadidehag@ucalgary.ca or ali.dehaghi@userful.com
+For any inquiries please reach out to us at ali.mollaahmadidehag@ucalgary.ca

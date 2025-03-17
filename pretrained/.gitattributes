@@ -1,0 +1,2 @@
+checkpoint_AV1.pt filter=lfs diff=lfs merge=lfs -text
+checkpoint_HEVC.pt filter=lfs diff=lfs merge=lfs -text
