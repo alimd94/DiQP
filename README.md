@@ -11,7 +11,7 @@
 **Official Pytorch repository for "Reversing the Damage: A QP-Aware Transformer-Diffusion Approach for 8K Video Restoration under Codec Compression"**
 
 **Updates:**
-- May 17, 2024: We publicly released the trained weights [`Check Here`](pretrained).
+- March 17, 2025: We publicly released the trained weights [`Check Here`](pretrained).
 
 This repository provides the codebase, pretrained models, and experimental results for our novel approach to restoring ultra-resolution (8K) videos degraded by codec compression.
 
