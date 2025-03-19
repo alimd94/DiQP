@@ -161,7 +161,7 @@ The [`videoRelated`](videoRelated) directory contains code and data for experime
 
 
 ## Citation
-If you find this work useful, please consider citing:
+If you find this work helpful, please consider citing it and giving the repository a star! ⭐
 
 ```bibtex
 @InProceedings{Dehaghi_2025_WACV,
