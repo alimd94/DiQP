@@ -6,7 +6,7 @@
 [![Sponser: Userful](https://img.shields.io/badge/Sponser-Userful_Corporation-black)]([LICENSE](https://userful.com))
 
 
-# Reversing the Damage: A QP-Aware Transformer-Diffusion Approach for 8K Video Restoration under Codec Compression (DiQP, Oral WACV 2025)
+# Reversing the Damage: A QP-Aware Transformer-Diffusion Approach for 8K Video Restoration under Codec Compression ([`Accepted in Oral WACV 2025`](https://ieeexplore.ieee.org/abstract/document/10943652))
 
 **Official Pytorch repository for "Reversing the Damage: A QP-Aware Transformer-Diffusion Approach for 8K Video Restoration under Codec Compression"**
 
