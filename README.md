@@ -164,14 +164,17 @@ The [`videoRelated`](videoRelated) directory contains code and data for experime
 If you find this work helpful, please consider citing it and giving the repository a star! ⭐
 
 ```bibtex
-@InProceedings{Dehaghi_2025_WACV,
-    author    = {Dehaghi, Ali Mollaahmadi and Razavi, Reza and Moshirpour, Mohammad},
-    title     = {Reversing the Damage: A QP-Aware Transformer-Diffusion Approach for 8K Video Restoration under Codec Compression},
-    booktitle = {Proceedings of the Winter Conference on Applications of Computer Vision (WACV)},
-    month     = {February},
-    year      = {2025},
-    pages     = {1258-1267}
-}
+@INPROCEEDINGS{10943652,
+  author={Dehaghi, Ali Mollaahmadi and Razavi, Reza and Moshirpour, Mohammad},
+  booktitle={2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)}, 
+  title={Reversing the Damage: A QP-Aware Transformer-Diffusion Approach for 8K Video Restoration under Codec Compression}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1258-1267},
+  keywords={Visualization;Adaptation models;Codecs;Quantization (signal);Noise reduction;Noise;Transformers;Diffusion models;Quality assessment;Spatiotemporal phenomena;8k video;video restoration;video quality enhancement;diffusion models;video transformer;video artifacts reduction;ultra-high resolution video},
+  doi={10.1109/WACV61041.2025.00130}}
+
 ```
 ## Contact us
 For any inquiries please reach out to us at ali.mollaahmadidehag@ucalgary.ca
