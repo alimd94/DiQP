@@ -745,7 +745,7 @@ class DiQP(nn.Module):
         self.pos_drop = nn.Dropout(p=drop_rate)
         self.dd_in = dd_in
 
-        self.inputFrames =  #number of frames in the input
+        self.inputFrames = inputFrames  #number of frames in the input
         self.steps = steps # total number of steps/qualities/QP values
         self.frameNos =frameNos # total number of frames in the whole clip/video
         self.widthRangeOrg = widthRangeOrg #maximum resolution for width in the clip/video
