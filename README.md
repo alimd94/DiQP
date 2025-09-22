@@ -1,5 +1,3 @@
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/reversing-the-damage-a-qp-aware-transformer/video-restoration-on-sepe-8k)](https://paperswithcode.com/sota/video-restoration-on-sepe-8k?p=reversing-the-damage-a-qp-aware-transformer)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/reversing-the-damage-a-qp-aware-transformer/video-restoration-on-uvg)](https://paperswithcode.com/sota/video-restoration-on-uvg?p=reversing-the-damage-a-qp-aware-transformer)
 [![arXiv](https://img.shields.io/badge/arXiv-2412.08912-b31b1b.svg)](https://arxiv.org/abs/2412.08912)
 [![License: Modified AGPL v3](https://img.shields.io/badge/License-Modified_AGPL_v3-blue)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-brightgreen)](https://www.python.org/)
