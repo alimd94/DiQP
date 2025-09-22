@@ -35,7 +35,7 @@ img_size = 512
 batchSize = 8
 
 testset = myDataset(seqNumbers=seqNumbers,numOfFramesPerSeq=numOfFramesPerSeq,rawPath=rawPath,qpPath=qpPath,\
-                extractingMethod=extractingMethod,totalQualities=totalQualities,cropSize= img_size,frac=.1,random_state=1234,augmentation=False,train=False,cropnos=120)
+                extractingMethod=extractingMethod,totalQualities=totalQualities,cropSize= img_size,frac=.1,random_state=1234,augmentation=False,train=False)
 testloader =  DataLoader(testset,batch_size=batchSize,num_workers=10,pin_memory=True,shuffle=False)
 
 
